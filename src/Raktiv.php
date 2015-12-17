@@ -4,6 +4,8 @@ namespace PeelingPixels\Raktiv;
 
 class Raktiv
 {
+    const VERSION = '0.1.0';
+
     /**
      * @var Item
      */
