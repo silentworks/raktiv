@@ -1,0 +1,21 @@
+{
+    "name": "peelingpixels/raktiv",
+    "description": "RactiveJS PHP parser",
+    "authors": [
+        {
+            "name": "Andrew Smith",
+            "email": "a.smith@silentworks.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PeelingPixels\\Raktiv\\": "src/"
+        }
+    },
+    "require": {
+        "zordius/lightncandy": "^0.23.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.4"
+    }
+}
